@@ -1,0 +1,28 @@
+name: Hindsight
+favicon: null
+layout_spectrum: 0.36664837202988565
+typography_spectrum: 0.7378989777062088
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.466093695955351
+  lightness: 0.8803112034220248
+  saturation: 0.035647695418447256
+  rhythmicContrast: 0.5779753243550658
+purpose: []
